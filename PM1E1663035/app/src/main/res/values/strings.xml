@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PM2E1663035</string>
+
+    <string-array name="nacionalidades">
+        <item>Honduras(504)</item>
+        <item>Costa Rica(506)</item>
+        <item>Guatemala(502)</item>
+        <item>El salvador(503)</item>
+    </string-array>
+</resources>
